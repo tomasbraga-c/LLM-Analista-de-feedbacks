@@ -26,7 +26,6 @@ for resenha in lista_de_resenhas:
     else:
         lista_r_json.append(resenha_dict)
 
-
 def contador_julgamento(lista_de_dicionario):
     contador_positivas = 0
     contador_negativas = 0
